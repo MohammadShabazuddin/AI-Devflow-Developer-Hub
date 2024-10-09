@@ -1,23 +1,6 @@
-# Next.js 14 DevOverflow
+# DevOverflow - Nextjs 14 
 
-<!-- GitHub badges -->
 
-[![Latest release](https://img.shields.io/github/v/release/ladunjexa/nextjs14-devoverflow?label=Latest%20release&style=social)](https://github.com/ladunjexa/nextjs14-devoverflow/releases/tag/v0.1.0)
-[![Stars](https://img.shields.io/github/stars/ladunjexa/nextjs14-devoverflow?style=social)](https://github.com/ladunjexa/nextjs14-devoverflow/stargazers)
-[![Fork](https://img.shields.io/github/forks/ladunjexa/nextjs14-devoverflow?style=social)](https://github.com/ladunjexa/nextjs14-devoverflow/forks)
-[![GitHub commits](https://img.shields.io/github/commit-activity/t/ladunjexa/nextjs14-devoverflow?style=social&logo=github)](https://github.com/ladunjexa/nextjs14-devoverflow/commits)
-[![Pull requests](https://img.shields.io/github/issues-pr/ladunjexa/nextjs14-devoverflow?style=social&logo=github)](https://github.com/ladunjexa/nextjs14-devoverflow/pulls)
-
-![demo](https://i.ibb.co/x7FChRP/Thumbnail.jpg)
-
-[![ladunjexa](https://custom-icon-badges.demolab.com/badge/made%20by%20-ladunjexa-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/luadnjexa)
-[![License](https://img.shields.io/github/license/ladunjexa/nextjs14-devoverflow?color=dddddd&labelColor=000000)](https://github.com/ladunjexa/nextjs14-devoverflow/blob/main/LICENSE)
-[![Top Language](https://img.shields.io/github/languages/top/ladunjexa/nextjs14-devoverflow?logo=github&logoColor=%23007ACC&label=TypeScript)](https://www.typescriptlang.org/)
-[![Contributors](https://img.shields.io/github/contributors/ladunjexa/nextjs14-devoverflow?style=flat&color=orange&label=Contributors)](https://github.com/ladunjexa/nextjs14-devoverflow/graphs/contributors)
-![Release](https://img.shields.io/github/release/ladunjexa/nextjs14-devoverflow.svg)
-![PRs](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=shields)
-![deployment](https://img.shields.io/github/deployments/ladunjexa/nextjs14-devoverflow/Production?logo=vercel&label=Website)
-[![Known Vulnerabilities](https://snyk.io/test/github/ladunjexa/nextjs14-devoverflow/badge.svg)](https://snyk.io/test/github/ladunjexa/nextjs14-devoverflow)
 
 ## 🌐 Live Demo
 
@@ -363,26 +346,6 @@ You can also deploy this Next.js app with [Netlify](https://www.netlify.com/).
 
 Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## 🔧 Contributing
-
-[![contributors](https://contrib.rocks/image?repo=ladunjexa/nextjs14-devoverflow)](https://github.com/ladunjexa/nextjs14-devoverflow/graphs/contributors)
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-To fix a bug or enhance an existing module, follow these steps:
-
-1. Fork the repo
-2. Create a new branch (`git checkout -b improve-feature`)
-3. Make the appropriate changes in the files
-4. Commit your changes (`git commit -am 'Improve feature'`)
-5. Push to the branch (`git push origin improve-feature`)
-6. Create a Pull Request 🎉
-
-### 📩 Bug / Feature Request
-
-If you find a bug (failure of a module to execute its intended function), kindly open an issue [here](https://github.com/ladunjexa/nextjs14-devoverflow/issues/new) by including the issue with a title and clear description.
-
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/ladunjexa/nextjs14-devoverflow/issues/new). Please include sample queries and their corresponding results.
 
 ## 💎 Acknowledgements
 
@@ -399,21 +362,50 @@ I'd like to express my gratitude to the following people who helped me with this
 - [OpenAI API](https://openai.com/blog/openai-api)
 - [RapidAPI](https://rapidapi.com/)
 - [Vercel](https://vercel.com/)
-- [JavaScript Mastery](https://www.jsmastery.pro/)
-
-## 📚 References
-
-JSMastery. (2023). [Ultimate Next.js 14 Course | Become a top 1% Next.js 14 developer](https://www.jsmastery.pro/ultimate-next-course). E-Learning.
 
 ## 📞 Contact Us
 
-[![Telegram](https://img.shields.io/badge/Telegram-@ladunjexa-2CA5E0?style=social&logo=telegram&logoColor=000000)](https://t.me/ladunjexa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ladunjexa-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/lironabutbul)
-[![Instagram](https://img.shields.io/badge/Instagram-ladunjexa-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/ladunjexa)
-[![Discord](https://img.shields.io/badge/Discord-ladunjexa-7289da?style=flat&logo=discord&logoColor=b0c0c0&labelColor=2c2f33)](https://discord.com/users/827996364331810816)
+## <a name="more">🚀 Contact</a>
+_Connect with me through various portals :_
 
-<!-- [![Twitter](https://img.shields.io/twitter/follow/ladunjexa.svg?style=social)](https://twitter.com/intent/follow?screen_name=ladunjexa) -->
+<table>
+  <tr>
+    <th></th>
+    <th>Social Media</th>
+    <th>Username</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="20" /></td>
+    <td>Email</td>
+    <td><code>shabazuddin.198@gmail.com</code></td>
+    <td><a href="mailto:shabazuddin.198@gmail.com" target="_blank">Email</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="20" /></td>
+    <td>LinkedIn</td>
+    <td><code>Shabazuddin Mohammad</code></td>
+    <td><a href="https://www.linkedin.com/in/shabazuddin123/" target="_blank">LinkedIn</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="20" /></td>
+    <td>Instagram</td>
+    <td><code>shabaz_uddin</code></td>
+    <td><a href="https://www.instagram.com/shabaz_uddin/" target="_blank">Instagram</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" width="20" /></td>
+    <td>Facebook</td>
+    <td><code>Shabaz</code></td>
+    <td><a href="https://www.facebook.com/shabaz.shabaz.37819/" target="_blank">Facebook</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png" width="20" /></td>
+    <td>Twitter</td>
+    <td><code>shabazuddin786</code></td>
+    <td><a href="https://twitter.com/shabazuddin786" target="_blank">Twitter</a></td>
+  </tr>
+</table>
 
-## 📋 License
 
-**DevOverflow** is open source software [licensed as MIT](https://opensource.org/license/mit/) and is free to use — See [LICENSE](https://github.com/ladunjexa/nextjs14-devoverflow/blob/main/LICENSE) for more details.
+I'm always open to collaboration and new opportunities! Feel free to reach out and connect with me. 🌟
