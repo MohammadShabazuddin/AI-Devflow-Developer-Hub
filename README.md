@@ -4,7 +4,7 @@
 
 ## 🌐 Live Demo
 
-Explore the live demonstration of the project: [nextjs14-devflow]([https://nextjs14-devoverflow.vercel.app/](https://stack-overflow-clone-git-main-mickai55s-projects.vercel.app/))
+Explore the live demonstration of the project: [nextjs14-devflow](https://stack-overflow-clone-git-main-mickai55s-projects.vercel.app/)
 
 ## 📝 Description
 
