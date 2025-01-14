@@ -1,15 +1,33 @@
-# DevOverflow - Nextjs 14 
+# Devflow: Developer Hub - Nextjs 14 
 
 
 
 ## 🌐 Live Demo
 
-Explore the live demonstration of the project: [nextjs14-devoverflow](https://nextjs14-devoverflow.vercel.app/)
+Explore the live demonstration of the project: [nextjs14-devflow]([https://nextjs14-devoverflow.vercel.app/](https://stack-overflow-clone-git-main-mickai55s-projects.vercel.app/))
 
 ## 📝 Description
 
 **DevOverflow** is a complex Q&A platform for developers to ask questions, share knowledge, and learn from each other. It is built with Next.js, Tailwind CSS, Clerk, MongoDB, and more.
 
+## Functionalities
+
+- **Global Search:** Enables quick content discovery across the platform.
+- **Sorting and Filtering with URL:** Provides customizable view options through URL parameters.
+- **Voting:** Facilitates community engagement through content evaluation.
+- **AI Answers:** Offers automated assistance for common queries.
+- **Full Responsive Design:** Ensures seamless experience across all devices.
+
+## Features
+
+- **StackOverflow-like Q&A:** Users can ask questions, provide answers, and vote on the best solutions.
+- **Tagging System:** Organize questions by relevant tags for easy searching and filtering.
+- **User Authentication:** Secure login and registration using Clerk for authentication.
+- **Responsive Design:** Tailwind CSS ensures a seamless experience across devices.
+- **Syntax Highlighting:** Prism.js provides syntax highlighting for code snippets.
+- **Webhooks:** Integration with webhooks for real-time updates and notifications.
+- **TypeScript Support:** Written in TypeScript for enhanced developer productivity and code maintainability.
+- **Database Integration:** MongoDB with Mongoose for efficient data storage and retrieval.
 <details><summary><b>Folder Structure</b></summary>
 
 ```bash
