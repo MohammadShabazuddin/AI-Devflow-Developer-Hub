@@ -346,6 +346,8 @@ You can also deploy this Next.js app with [Netlify](https://www.netlify.com/).
 
 Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
+**Website Image**
+![image](https://github.com/user-attachments/assets/12508c23-79c1-4d39-8f7c-4d68dabe33d4)
 
 ## 💎 Acknowledgements
 
